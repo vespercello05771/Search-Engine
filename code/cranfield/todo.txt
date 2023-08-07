@@ -1,0 +1,4 @@
+1) contextual spellcheck for Evaluate dataset
+2) query_start_time
+2) ndcg check
+3) bm25 if possible.
